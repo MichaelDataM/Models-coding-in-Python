@@ -1,0 +1,2 @@
+C: float, default = 1.0 regula
+kernel{‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’} or callable, default=’rbf’
