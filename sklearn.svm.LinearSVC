@@ -1,3 +1,4 @@
+## The parameters for LinearSVC
 penalty: {'l1','l2'}, default = 'l2'
 loss: {'hinge','squared_hinge'},default = 'squared_hinge'
 C: regularization parameter
